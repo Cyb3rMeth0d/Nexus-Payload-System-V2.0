@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Reemplaza esta ruta con tu propio banner o logo en la carpeta assets/ -->
-<img src="assets/banner.png" alt="NexusPayload V2.0 Banner" width="100%" />
+<img src="[[assets/banner.png](https://i.ibb.co/whXNxpp0/image.jpg)](https://i.ibb.co/whXNxpp0/image.jpg)" alt="NexusPayload V2.0 Banner" width="100%" />
 
 # ⚡ NexusPayload V2.0
 
